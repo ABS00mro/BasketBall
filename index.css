@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Cursed Timer ULiL;
+}
+
+.container {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  width: 575px;
+  height: 385px;
+  background-color: #1b244a;
+  margin: 50px auto;
+  color: #fff;
+}
+.dial {
+  background-color: black;
+  width: 200px;
+  height: 250px;
+  margin-bottom: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 80px;
+  color: #f94f6d;
+}
+button {
+  width: 45px;
+  height: 45px;
+  color: #fff;
+  background: none;
+  border: 1px solid white;
+  border-radius: 4px;
+  margin: auto 4px;
+}
